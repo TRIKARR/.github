@@ -65,4 +65,7 @@ The images offer a clear glimpse into our thoughtfully designed system, all revo
 - RoTM's Artificial Intelligence Team is diligently enhancing user experience by optimizing its models through the incorporation of diverse personality models. This strategic effort aims to tailor interactions, ensuring a more personalized and engaging experience for every user.
 
 - BRoTM is spearheading optimizations to elevate user interaction, focusing on latency reduction and implementing advanced techniques to reinforce the synergy between BRoTM and RoTM.
+- 
+- Ruturo is willing to provide more than just mere machines
+
 
